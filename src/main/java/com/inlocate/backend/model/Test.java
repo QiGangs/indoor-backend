@@ -6,4 +6,5 @@ package com.inlocate.backend.model;
  * @create: 2019-06-07 20:40
  **/
 public class Test {
+
 }
